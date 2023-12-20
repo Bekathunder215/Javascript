@@ -1,0 +1,23 @@
+.choiceButton{
+    line-height: 40px;
+    width: 180px;
+    font-size: 30px;
+    border-style: solid;
+    border: 4px;
+    padding: 3px;
+    align-content: center;
+}
+#GameDiv{
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: hsla(16, 54%, 43%, 0.739);
+    text-align: center;
+}
+#Playertext{
+    color: brown;
+}
+#Computertext{
+    color: blue;
+}
